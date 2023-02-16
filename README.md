@@ -1,5 +1,5 @@
 <div align="center">
-  ![暗色](https://raw.githubusercontent.com/Shiinama/Shiinama/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only)
+   <img src="https://cdn.jsdelivr.net/gh/Shiinama/Shiinama/assets/github-contribution-grid-snake.svg" />
 </div>
 
 ## Abount me
