@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/vancats/vancats/assets/github-contribution-grid-snake.svg" />
-<!-- ![](https://cdn.jsdelivr.net/gh/vancats/vancats/assets/github-contribution-grid-snake.svg)               -->
+  ![](https://raw.githubusercontent.com/Shiinama/Shiinama/main/assets/github-contribution-grid-snake.svg)
 </div>
 
 ## Abount me
