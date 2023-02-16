@@ -1,5 +1,5 @@
 <div align="center">
-  ![](https://raw.githubusercontent.com/Shiinama/Shiinama/main/assets/github-contribution-grid-snake.svg)
+  ![](https://raw.githubusercontent.com/Shiinama/Shiinama/main/assets/github-contribution-grid-snake.svg#gh-dark-mode-only))
 </div>
 
 ## Abount me
