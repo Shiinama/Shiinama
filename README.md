@@ -12,7 +12,7 @@ Hi, I am **Xiyu**.
 
 
 ## Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiinama&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiinama&count_private=true&theme=radical)
 
 
 
